@@ -1,4 +1,4 @@
-<?php
+
 /*   __________________________________________________
     | Deobfuscated by Zload-DGB Decompiler-DVC Unpack  |
     |__________________________________________________|
@@ -525,7 +525,8 @@ echo "Delay hoàn thành nv được sử dụng: \033[32m" . $m8ocK . "\033[0m
 goto Mm5df;
 
 QbN6o:
-echo $sF9If . "Đang Đợi " . $HerLQ . " Để Làm NV Tiếp Theo        ";
+echo $sF9If . "Đang Đợi " . $HerLQ . " Để Làm NV Tiếp Theo        
+";
 
 goto XHjz0;
 
@@ -557,7 +558,8 @@ echo "\033[1;37m━━━━━━━━━━━━━━━━━━━━━�
 goto KVZ0S;
 
 YjtOu:
-echo "" . $XyKu_ . " Đang ấn hoàn thành             ";
+echo "" . $XyKu_ . " Đang ấn hoàn thành             
+";
 
 goto ZXQJX;
 
@@ -1220,7 +1222,8 @@ exit;
 goto uDeYd;
 
 nsocw:
-echo "" . $XyKu_ . " Đang ấn hoàn thành lần " . $mjqli . "              ";
+echo "" . $XyKu_ . " Đang ấn hoàn thành lần " . $mjqli . "              
+";
 
 goto AjIKw;
 
@@ -1245,7 +1248,8 @@ $UbdSJ = "json_decode"($N9NEi, true);
 goto QcseK;
 
 utXQP:
-echo "Không thể kết nối, hãy xem lại mạng. ";
+echo "Không thể kết nối, hãy xem lại mạng. 
+";
 
 goto pqypo;
 
@@ -1288,7 +1292,8 @@ if (!($mjqli < 10)) {
 goto mX726;
 
 vtirW:
-echo $XyKu_ . $Os0oh . "str_repeat"(" ", "max"(0, "mb_strlen"($PRTh1 ?? "") - "mb_strlen"($Os0oh))) . "" . $xrhb_;
+echo $XyKu_ . $Os0oh . "str_repeat"(" ", "max"(0, "mb_strlen"($PRTh1 ?? "") - "mb_strlen"($Os0oh))) . "
+" . $xrhb_;
 
 goto USAzu;
 
@@ -1358,7 +1363,8 @@ echo "" . $ejLVp . " Đã Đạt tới \033[0m " . $prQVa . " Job thất bại b
 goto hTxmt;
 
 naSyT:
-echo "" . $XyKu_ . " Ấn thành công              ";
+echo "" . $XyKu_ . " Ấn thành công              
+";
 
 goto N7l6W;
 
@@ -1387,7 +1393,8 @@ kXAN5:
 goto r0Bos;
 
 XRkkm:
-$gMtDD = $Yrmm6 . "Báo Cáo lỗi Thành công                 ";
+$gMtDD = $Yrmm6 . "Báo Cáo lỗi Thành công                 
+";
 
 goto iPwQC;
 
@@ -1538,7 +1545,8 @@ echo "\033[1;33m╔════════════════════�
 goto UzeWS;
 
 yBwCl:
-echo $sF9If . "Đang Đợi " . $HerLQ . " Để Làm NV Tiếp Theo ";
+echo $sF9If . "Đang Đợi " . $HerLQ . " Để Làm NV Tiếp Theo 
+";
 
 goto wTgx3;
 
@@ -1890,12 +1898,14 @@ sleep(4);
 goto QRsgE;
 
 QupRe:
-echo $MBlFR . "" . $ZuJLn . " Đang Chuyển Hướng Tới Tiktok " . $U20sr . "     ";
+echo $MBlFR . "" . $ZuJLn . " Đang Chuyển Hướng Tới Tiktok " . $U20sr . "    
+ ";
 
 goto U0kHX;
 
 FKX9A:
-echo "Đang hết nhiệm vụ  ";
+echo "Đang hết nhiệm vụ  
+";
 
 goto cjEAh;
 
@@ -2323,7 +2333,8 @@ if (!isset($UbdSJ["data"][$cXC5S]["nickname"])) {
 goto mZ1rK;
 
 keEZk:
-echo $umMwO . "Đợi check lại " . $VHY3O . " trong " . $Dyg_p . " giây ";
+echo $umMwO . "Đợi check lại " . $VHY3O . " trong " . $Dyg_p . " giây 
+";
 
 goto ipsPJ;
 
@@ -2360,7 +2371,8 @@ goto hk2Mc;
 goto JYV_o;
 
 NW6ne:
-echo $MBlFR . "" . $ZuJLn . " Đang Chuyển Hướng Tới Tiktok " . $U20sr . "        ";
+echo $MBlFR . "" . $ZuJLn . " Đang Chuyển Hướng Tới Tiktok " . $U20sr . "       
+ ";
 
 goto RNzSM;
 
@@ -2475,12 +2487,14 @@ ucBKS:
 goto xKDQX;
 
 EGisE:
-echo "Nhiệm Vụ " . $VHY3O . " đã chặn           ";
+echo "Nhiệm Vụ " . $VHY3O . " đã chặn 
+          ";
 
 goto LEcva;
 
 UiOvh:
-$gMtDD = $Yrmm6 . "Bỏ qua job follow Thành công                 ";
+$gMtDD = $Yrmm6 . "Bỏ qua job follow Thành công                 
+";
 
 goto i3v3D;
 
@@ -3535,7 +3549,8 @@ echo "Athu sai hoạc chưa thêm tài khoản tiktok
 goto RsHkb;
 
 Ejd8y:
-echo $UcF_a . "Đang check lại " . $VHY3O . "                      ";
+echo $UcF_a . "Đang check lại " . $VHY3O . "                      
+";
 
 goto rFmvj;
 
@@ -4013,7 +4028,8 @@ $bmpW2 = "";
 goto k8V1N;
 
 EF1B7:
-$gMtDD = $Yrmm6 . "Bỏ qua job Thành công                    ";
+$gMtDD = $Yrmm6 . "Bỏ qua job Thành công                    
+";
 
 goto Hgvlh;
 
@@ -4303,7 +4319,8 @@ J3Ecf:
 goto HDw2A;
 
 uHbXS:
-echo "";
+echo "
+";
 
 goto Q_2Y9;
 
